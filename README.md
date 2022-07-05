@@ -1,0 +1,2 @@
+# Blogs
+Daily blogs
