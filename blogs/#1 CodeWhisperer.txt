@@ -1,0 +1,14 @@
+Daily blog #1: CodeWhisperer
+
+CodeWhisperer is an AI CODE-writing tool for programmers launched by Amazon to help software developers in 
+writing code. It searches for security and biasness in developers' projects. It also offers programming 
+advice to thes users. Machine learning (ML) is used to power the recently released CodeWhisperer service.
+According to AWS, the suggestions will be based on developers' code in the IDE.
+
+Multiple programming languages, frameworks, libraries and well-known cloud services are sorted out while a
+developer writes code. CodeWhisperer generates user's command and chooses the best library and cloud service
+for the task. It then provides a code sample in the source code editor.
+
+The AI algorithm is available for languages like Java, JS and Python and Jetbrain, VSC, AWS Cloud9 for the 
+IDEs. Additionally, developers may protect their scripts by utilizing CodeWhisperer to find vulnerabilities
+in their projects and create projects responsibly.  
