@@ -1,14 +1,17 @@
-Daily blog #1: CodeWhisperer
+Daily blog #1: Amazon launches CodeWhisperer
+Author: TechGig Bureau
+Source: https://content.techgig.com/technology/amazon-launches-codewhisperer-an-ai-code-writing-tool-for-programmers/articleshow/92451503.cms
 
-CodeWhisperer is an AI CODE-writing tool for programmers launched by Amazon to help software developers in 
-writing code. It searches for security and biasness in developers' projects. It also offers programming 
-advice to thes users. Machine learning (ML) is used to power the recently released CodeWhisperer service.
-According to AWS, the suggestions will be based on developers' code in the IDE.
+CodeWhisperer is an AI code-writing tool for programmers launched by Amazon to help software developers in 
+writing code. It searches for security and biases in developers' projects. It also offers programming advice 
+to its users. Machine learning (ML) is used to power the recently released CodeWhisperer service. According to AWS, the 
+suggestions will be based on developers' code in the IDE.
 
-Multiple programming languages, frameworks, libraries and well-known cloud services are sorted out while a
-developer writes code. CodeWhisperer generates user's command and chooses the best library and cloud service
-for the task. It then provides a code sample in the source code editor.
+Multiple programming languages, frameworks, libraries, and well-known cloud services are sorted out while a 
+developer writes code. CodeWhisperer generates the user's command and chooses the best library and cloud 
+service for the task. It then provides a code sample in the source code editor. The AI algorithm is available
+for languages like Java, JS, and Python, and Jetbrain, VSC, and AWS Cloud9 for the IDEs. 
 
-The AI algorithm is available for languages like Java, JS and Python and Jetbrain, VSC, AWS Cloud9 for the 
-IDEs. Additionally, developers may protect their scripts by utilizing CodeWhisperer to find vulnerabilities
-in their projects and create projects responsibly.  
+Therefore, CodeWhisperer can aid Kweli Capital developers in saving time through auto-completion of entire 
+functions. Additionally, developers may protect their scripts by utilizing CodeWhisperer to find 
+vulnerabilities in their projects and create projects responsibly.  
