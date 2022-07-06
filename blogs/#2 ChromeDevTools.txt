@@ -1,0 +1,21 @@
+Daily blog #2: Useful Chrome Dev Tools Features to Ease Your Debugging
+Author: Tommaso De Ponti
+Source URL: https://betterprogramming.pub/useful-chrome-dev-tools-features-to-ease-your-debugging-642a611fcd4#4974
+
+Dev tools are programs that allow a developer to create, test and debug software. The chrome dev tools are a 
+goldmine, and some of its best features are sometimes overlooked. Dev tools are incredibly useful for 
+debugging and implementing application features. When debugging a feature that does not work expectedly, 
+there is a high probability that the problem lies in the data that the feature uses especially when working 
+with APIs, requests or functions. The popularly used and effective features are Breakpoints, Accessibility 
+Trees, Memory inspector and the Network Tab.
+
+Breakpoints allow you to pause code at a specific line in a method and access all the variables in-scope for 
+the selected line or method. Sometimes it is useful to only pause the code when a certain condition is met. 
+This is easily achieved through conditional breakpoints. Accessibility trees offer simplicity in reading by 
+proving an overview of the page’s tree. With memory inspectors, debugging code that works using typed array 
+is made easier because bytes are decoded to obtain strings. The network tab provides useful insights which 
+is made possible by understanding the structure of an application and technology used.
+
+The enlightenment to Kweli Capital developers from this article is that the Chrome dev tools are serviceable 
+and critical practices to exponentially grow your knowledge and build better products.
+
