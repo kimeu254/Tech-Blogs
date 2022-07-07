@@ -1,0 +1,20 @@
+Daily blog #3: SmartBear launches all-in-one web browser and mobile app testing, BitBar
+Author: Duncan MacRae
+Source URL: https://www.developer-tech.com/news/2022/jun/21/smartbear-launches-all-in-one-web-browser-and-mobile-app-testing/
+
+BitBar is a technology and service company that offers mobile app and game developers automated software 
+build and test environments. SmartBear is a provider of software development and quality tools. The provider
+has made web testing on BitBar available. The company has added web browser testing capabilities into its 
+next-gen mobile testing platform, BitBar. It is said to be the most reliable and streamlined cloud-based 
+testing available with instant access to all the latest browsers and devices supporting a digital customer 
+experience.
+
+Bitbar enables developers to perform tests across real browsers and devices without the burden of maintaining
+in-house. This makes testing quick and secure. It has diversity supporting enterprise complex use cases and 
+security needs, additional deployment options, including private cloud and dedicated devices, automation 
+frameworks, environments, and languages that software testers are using today.
+
+From this article, BitBar can benefit the Kweli Capital dev team in releasing high-quality requirement 
+software products with speed as web and mobile testing is simplified in a single platform. As the market 
+evolves the product-integrated platform, BitBar meets developers' needs by bringing mobile and web developers
+together.
