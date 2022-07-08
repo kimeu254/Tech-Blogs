@@ -1,0 +1,25 @@
+Daily blog #4: CI/CD Pipeline: Everything you need to know
+Author: Duncan Brigginshaw
+Source URL: https://www.scriptworks.io/blog/ci-cd-pipeline/
+
+If you are not familiar with the CI/CD pipeline, it is a continuous Automated integration, Continuous 
+Testing, Continuous Delivery, and deployment process. This is the heart of every DevOps practice and means 
+continuous integration and releasing to production with zero downtime. Continuous Integration strategy 
+requires developers to commit code to a shared repo many times per day. After which an automatic build 
+verifies each check-in, allowing teams to catch problems at an early stage. As for Continuous Development, 
+software release is made with better speculation and velocity. This means every change can be made available 
+to users at any time making it possible to release new versions of software without disrupting operations. 
+
+There are various CI/CD tools you can use to automate deployments and testing, but there is no one correct 
+tool or set of tools. The best way to determine what works for your team is by trying out different options 
+and seeing which has the most benefits. When implementing the CI/CD pipeline you should be aware of pitfalls 
+that organizations may that fall into like creating bottlenecks and improper scaling of the CI/CD system. It 
+would help if you wrote tests for other people’s code to pass CI testing before checking and deploying. If 
+you are doing a more extensive implementation, ensure that your resources are correctly scaled to handle the 
+process.
+
+The lesson from this article is that CI/CD pipeline gives development teams a chance to test their code 
+before deploying it into production. It also makes your software delivery process more predictable by 
+providing visibility into what’s being checked in, unit tests being run, and deployments taking place. This 
+transparency lets everyone know what is going on with the code, so no delays or problems with production 
+achieving both a consistent and automated way.
