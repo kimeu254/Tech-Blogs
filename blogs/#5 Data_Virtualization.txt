@@ -1,0 +1,27 @@
+Daily blog #5: Data Virtualization is a Mature Technology
+
+Author: Yash Mehta
+
+Source URL: https://readwrite.com/guide-to-data-virtualization-for-enterprises/
+
+Data virtualization is an umbrella term used to describe an approach to data management that allows an 
+application to retrieve and manipulate data without requiring technical details about the data. Data 
+virtualization aims to create a single representation of data from multiple, disparate sources without 
+having to copy or move the data.  It is a mature technology used as a part of a company’s data integration 
+strategy. The technology creates a logical extraction layer in distributed management processing allowing 
+users to access data of any format and heterogeneous source in a standardized manner.
+
+Enterprises have been collecting data from numerous destinations or sources into data warehouses, data, or 
+data lakes to consolidate it for further analysis and decision making. With increasing volume and variation 
+of data, the data integration process seems time-consuming, costly, and prone to errors. Thus, Enterprises 
+can easily access the data they require with data virtualization. It allows enterprises to meet their data 
+demands as it allows you to view all your data in real-time from a single, centralized location. The quest 
+for fast expansion has increased the number of unconnected physical databases and complex data in businesses. 
+The quickest way to combine them for analytics is to use data virtualization. In addition, data 
+virtualization is a more advanced method of transferring data from several locations.
+
+With the increasing complexity of corporate operations, businesses continue to use various data management 
+solutions resulting in increasing intricate data architecture. Using Data Virtualization software by the 
+Kweli Capital development team will enable the designing of clean and concise data views using rich 
+analytics,design, and development features. Also, selecting the finest data virtualization tool and solutions
+compels a thorough examination of technological capabilities. 
