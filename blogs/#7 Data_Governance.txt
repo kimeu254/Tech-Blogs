@@ -1,0 +1,33 @@
+Daily blog #7: Five effective best practices for Data Governance Success
+
+Author: Dietmar Rietsch
+
+Source: https://readwrite.com/5-effective-best-practices-for-data-governance-success/
+
+Data governance is the process of managing the availability, usability, integrity and security of data in 
+enterprise systems, based on internal data standards and policies that also control data usage. Some key 
+practices for accomplishing data governance include:
+
+*	Defining the proper process in alignment with the right people- creating a unified database along with a 
+master dataset can standardize how data is used. Also, defining roles to every program as such the right 
+people can access the best-suited data as they need it yields the best results/insights.
+
+*	Building the roadmap that ensures trusted data always- Organizations should align their business 
+objectives with high-quality data creation and implementation to improve decision-making. Performing 
+analytics without quality data can lead to inaccurate interpretations hence poor decisions.
+
+*	Become consistently compliant with regulatory requirements- adhering to critical compliance and 
+regulatory mandates is essential to minimize risks and operational costs.
+
+*	Evaluate risks across the board- data security starts with understanding the related risks to 
+distributed data. The organization structure should ensure appropriate access to data while maintaining 
+adequate privacy.
+
+*	Bring the right data management platform to the table- a forward-thinking organization should look into 
+the future, aligning its data governance expectations with its technology stack to implement robust quality, 
+risk assessments, and ongoing monitoring and testing mechanisms.
+
+Data is the most significant asset to any organization and should be governed accordingly. Therefore, 
+the Kweli Capital dev team should realize that an integrated data governance architecture is essential to 
+improve decision-making and ensure successful outcomes. 
+
