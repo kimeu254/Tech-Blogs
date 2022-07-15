@@ -1,0 +1,20 @@
+Blog #8: Internet of Behavior
+
+Author: Niyathi Rao
+
+Source: https://www.smartkarrot.com/resources/blog/internet-of-behaviors/
+
+The Internet of Things has been extended to the Internet of Behavior where data is collected from multiple 
+connected devices to get valuable insights into customer interests. It is a powerful tool and has numerous
+applications icluding location tracking, healthcare industry, travel itenary, credit score tracking and 
+logistics.
+
+Data collected through IoB is useful in deciphering the habits of customers across different platforms and 
+also engaging with customers in real-time. By gathering insights into customer preference, you can enhance 
+investment decisions like tailoring campaigns based on the available insights. The major shortcoming to this 
+would be to personalize information towards its targets. Information on IoB will be available in the future. 
+Approximately 3 billion people are set to experience the IoB in various capacity in 2022 hence has a sure 
+shot impact on future services.
+
+The major lesson from this blog is that IoB helps identify customer behavior recommendations and patterns. 
+This helps achieve long-term customer growth and satisfaction.
