@@ -1,0 +1,31 @@
+Daily blog #10:  The Top 7 UX Design Trends 
+
+Author: uxplanet.org
+
+Source: https://uxplanet.org/the-top-7-ux-design-trends-for-2022-1c1ad67b2bdb
+
+User experience design is the process teams use to create products that provide meaningful and relevant 
+experiences to users. The main focus to UX design is to adapt to everchanging trends to meet consumer demands 
+and boost user engagement and satisfaction. 
+
+You need to stay up to date on the latest trends and decide how to implement them into your designs. The top 
+7 UX design trends to help you in this are:
+
+*Increased personalization- With Netflix curating the shows you watch to suit your likes and Spotify knowing 
+exactly what you want to listen to next, personalization has become a part of our daily lives.
+*Design led by AR and VR- AR and VR change how users interact with products and boost engagement.For example, 
+AR has been used in eCommerce apps to let users virtually try on clothes from the comfort of their homes.
+*Visualized data- This involves presenting data in comprehendible visual formats like infographics which is 
+crucial for UX designers.
+*3D design and animation- Using 3D techniques can help build exciting visuals that boost the overall user 
+experience and engagement.
+*Micro-interactions- Designers must be creative in the way they implement micro-interactions because of their 
+large impact on UX. For example, like buttons, innovative scroll bars and engaging in story telling methods.
+*Minimalism with a twist- Designers are expected to keep the product minimal but add their own twist to draw 
+and retain user interest. For example, using unique and interesting animation, scrolls and different text 
+formats.
+*Enhances cursors- Cursors are a primary tool that lets users interact with the UI. Cursors are a fun tool in 
+your UX design toolkit and can be used to enhance any web app.
+
+The take from this article is that you need to learn the core principals of UX/UI design to make it easier to 
+adapt to changes in the ever-evolving world without changing your entire design. 
