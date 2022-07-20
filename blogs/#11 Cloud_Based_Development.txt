@@ -1,0 +1,14 @@
+Daily blog #11: Cloud-Based Development- from Dream to Reality
+
+Author: Mike Nikles
+
+Source: https://www.infoq.com/articles/cloud-based-development/
+
+Cloud application development refers to the process by which cloud-based apps are built by the use of DevOps 
+practices and tools. It involves different stages of software development.
+
+Software as a service solution quickly brought a significant shift as all SDLC stages are performed in the cloud 
+except for the implementation stage of the cycle which is considered a laggard.
+
+The key takeaway from this article to Kweli Capital is that we could leverage platforms and SaaS offerings for the 
+majority of the SDCL.
