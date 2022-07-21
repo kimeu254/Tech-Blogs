@@ -1,0 +1,26 @@
+Daily blog #12: Insights into the Emerging Prevalence of Software Vulnerabilities
+
+Author: Cynthia Freeney
+
+Source: https://www.infoq.com/articles/emerging-software-vulnerabilities/
+
+Software vulnerability is a defect in software that could allow an attacker to gain control of the system. It causes exploitation 
+and can violate the security pillars, Confidentiality, Integrity, and Availability (CIA).
+
+The major contributors to software security flaws are a non-evolving security posture, the absence of secure and effective 
+software best practices, the knowledge disparity between developers and threat actors, and insecure legacy software.
+
+An evolving security posture is necessary for a successful security program due to ever-changing threats. Reliance on internal 
+compliance against the backdrop of a no-evolving security policy as evidence of secure software development is short-sighted.
+
+The use of secure best practices in SDLC facilitates proactive vulnerability detection and remediation before deployment. 
+Application of secure design principles where applicable bolsters application security. However, routine training for 
+developers and testers must be prioritized.
+
+There are varying reasons for the growth of knowledge disparity between developers and threat actors. However, some contributors 
+are mindset, primary focus, and lack of learning opportunities. Developers must be aware of current and ever-expanding attack 
+vectors.
+
+Organizations now realize the significance of executing due diligence to implement and maintain a secure SDLC and infrastructure. 
+Since threat vectors are constantly evolving, Kweli Capital developers must engage in continuous learning regarding secure 
+software development.
