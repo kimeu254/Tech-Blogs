@@ -1,0 +1,29 @@
+Daily blog #14: How to streamline your software selection sequence
+
+Author: Andy Wolber
+
+Source: https://www.techrepublic.com/article/streamline-software-selection-sequence/
+
+Software selection is all about choosing a solution with great technical functionality. It often starts with a focus on a long 
+list of features. The best approach is to list known apps then expand research and later shorten your list on viability and 
+credibility criteria.
+
+How to streamline your software selection sequence
+
+*Search for solutions- An iterative process helps you achieve this. For example, a series of web searches involving 
+keywords and then refining results by elimination may aid in identifying potential software solutions.
+
+*Review updates- Identify changes made to the app by either reviewing release notes and dates or by checking publicly posted 
+change logs or blogs.
+
+*Prefer public people- A preference to use systems from companies where real people, photos, names, titles, bios, and contact 
+information are provided. Most software vendors publish little or no information about the people behind the product.
+
+*Consider cost- A cost estimate of the usage scenario should be made to enhance company trust.
+
+Evaluate features- After the above four assessments, you need to move to the detail evaluation stage to make sure the system 
+does what you need, in a workflow you like and supports the available devices and systems.
+
+Most developers skip to the evaluation stage leaving other factors like updates, preference, and cost behind. Kweli Capital 
+developers should however consider going through all the 5 steps as each step helps eliminate systems that do not work with 
+existing systems, aren’t updated, or are not open and transparent in terms of either people or pricing.
