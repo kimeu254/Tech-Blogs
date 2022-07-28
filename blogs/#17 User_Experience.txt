@@ -1,0 +1,12 @@
+Daily blog #17: Guidelines for a better Web User Experience
+
+
+Author: AllianceTek
+
+Source: https://www.alliancetek.com/articles/guidelines-better-web-ux.html
+
+A great user experience improves the quality of users’ interactions with your products and services. In order to ensure that users get the best experience possible, it is necessary to understand them. When you understand their business environment then you can know what type of product you should cater for.
+
+The design is the most important factor to a user. A solid design should incorporate the principles of human-computer interaction. The design should be responsive, employ graphics intelligently, and provide precise information to the user. Once your product is launched, it is key to run a usability test so that your product’s user experience can be built upon and improved even after framework implementation.
+
+At the end of the day, user experience is everything that matters. Kweli Capital can have a world-class product with a software product that showcases a consumer or industry need for it, but if the information is muddled and the interface is confusing, users won’t return.
