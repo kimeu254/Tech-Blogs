@@ -1,0 +1,11 @@
+Daily blog #16: How we’ll solve software supply chain security
+
+Author: Dan Lorenc
+
+Source:  https://www.infoworld.com/article/3667473/how-well-solve-software-supply-chain-security.html
+
+Security teams require a standard set of processes for locking down roots of trust for software artifacts and developers need a clear path to balance selection against security policies. Open source provides answers to this.
+
+Open source refers to denoting software to which the original source code is made freely available and may be redistributed and modified. Anyone can see the code and contribute to it. Incase of any issues, you can look them up, find them and conduct an audit hence it is transparent. It comes with a license that guarantees ability to use code others have written.
+
+Open source is considered a great tool for software supply chain security. The only way this is possible is establishing stronger links by working together. After all, the open source community made it pervasive across the industry and inside everyone’s supply chain. Therefore, Kweli Capital can leverage the same community to start securing that supply chain.   
