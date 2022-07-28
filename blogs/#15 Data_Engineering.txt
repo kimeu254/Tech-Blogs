@@ -1,0 +1,15 @@
+Daily blog #15: What does the future of data engineering look like
+
+Author: Benoit Goujon
+
+Source: https://benoitgoujon.com/post/future-data-engineer/
+
+Data engineering is the practice of designing and building systems for collecting, storing, and analyzing data at scale. The field is evolving quickly but the role does not evolve at the same pace everywhere. The role change is broken into three aspects discussed below.
+
+-Data engineers will leverage cloud technologies and SaaS products. They have the responsibility to choose the best tools and as a result, have proper knowledge of the ecosystem to conduct benchmarks and choose relevant decision criteria.
+
+-Data engineers will spend less time coding and more time monitoring. The role of data engineering will shift towards a more ops-oriented role putting a focus on improving data reliability across the company.
+
+-Data engineers will switch teams from feature teams to foundation teams. The objective next generation of developers will be to make product teams more productive by proving the right set of tools as this is what the data mesh paradigm is all about.
+
+There is a bit of uncertainty associated with opinions expressed as looking at it is a tough exercise. But I hope this article will make the Kweli Capital team think about the future of the role too.
