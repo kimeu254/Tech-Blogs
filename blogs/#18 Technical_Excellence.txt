@@ -1,0 +1,12 @@
+Daily blog #18: The journey to technical excellence in agile software development
+
+
+Author: Adam Alami
+
+Source: https://www.sciencedirect.com/science/article/pii/S0950584922001021
+
+According to research, Technical excellence is a mindset that is underpinned by continuous attention to sustainable code, continuous learning, and teamwork. It requires the adoption of design and development practices such as continuous architecture.
+
+Attainment of technical excellence does not only revolve around technical practices. It also relies on social and organizational support and, most importantly, a mindset. Agile software development methods such as Scrum and XP are now widely adopted in the industry. These methods aim at improving a software development team’s agility by relying on iterative development, self-organizing teams, craftsmanship, and processes that provide sufficient coordination for project behaviors
+
+Technical excellence is the only reference to quality in the agile manifesto. It is a mindset supported by software engineering practices and therefore The Kweli Capital dev team should understand that technical excellence does not happen without its members’ commitment because it is nurtured by social conditions. 
