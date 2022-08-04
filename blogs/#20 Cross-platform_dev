@@ -1,0 +1,14 @@
+Daily blog #20: Cross-platform mobile app development—what is it and why is it popular?
+
+Author: Patryk Stefanowicz
+
+Source: https://www.stxnext.com/blog/cross-platform-mobile-development/
+
+Cross-platform development is the practice of developing software products or services for multiple platforms or software environments. The Mobile app market is currently one of the world’s most lucrative. Cross-platform apps translated to native code generally have the upper hand as they use platform-specific, native UI components, which results in better performance, responsiveness, and overall user experience.
+
+There are many cross-platform development frameworks available online but the most prominent ones are Flutter and React Native. React native was created by Facebook and it is a framework based on the React library. Flutter on the other hand is a tool developed by google and it utilizes dart as its programming language. While Flutter is not as mature as React Native, it’s reliable enough to be used by some big mainstream apps
+
+The main reason why cross-platform development is such a game changer is the fact that it is a fast, cost-effective solution. With cross-platform development you get to target various markets, that is, macOS, iOS, and Android systems. Also, the job will be done quickly and with minimum resources compared to developing the same app twice natively.
+
+All of the benefits above combined make this approach very beneficial. Although both React Native and Flutter are relatively new compared to mobile operating systems, Kweli Capital team should note that they already have a huge open-source community around them as the technologies have been created to primarily deal with the UI. It is also possible to use native modules which expose additional APIs to utilize more hardware features.
+
