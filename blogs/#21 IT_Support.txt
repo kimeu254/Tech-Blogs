@@ -1,0 +1,13 @@
+Daily blog #21: Understanding the three levels of IT support
+
+Author: Franklin Okeke
+
+Source: https://www.techrepublic.com/article/understanding-levels-it-support/
+
+Technical or IT support refers to a special support service, enterprises provide to solve consumer-related issues with their IT product. Businesses consider many factors, such as their range of products and services and the level of expertise needed to handle user-related problems. A typical IT support is organized into three different levels; level 1, level 2, and level 3.
+
+The first tier in the IT support chain is Level 1 support. It is the support tier with the least expertise in technical issues. Usually, the employees that make up this support tier have a limited understanding of technical issues. Level 2 support technicians are more experienced in assessing issues and providing solutions that Level 1 technicians cannot handle.
+
+The Level 3 support team might consist of experts like hardware engineers, software developers, architects, and security professionals. This group has access to classified information in the organization. When setting up Level 3 support for your company, look for experts with IT experience in your products or experience in a related product.
+
+Enterprises should have different support levels because it brings about a quick resolution of tasks, facilitates feedback to user queries, improves customer experience, and ensures that experts only handle customer problems. Therefore, Kweli Capital should adopt tiered technical support to leverage the above benefits.
