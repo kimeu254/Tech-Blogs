@@ -1,0 +1,11 @@
+Daily bog #22: Increasing Developer Effectiveness by Optimizing Feedback Loops
+
+Author: Ben Linders
+
+Source: https://www.infoq.com/articles/developer-effectiveness-feedback/
+
+Developer Effectiveness can be optimized by identifying a series of feedback loops that represent the main tasks in engineering. Feedback loops can be of different sizes; some are micro-feedback loops, small tasks that developers do over and over throughout the day.
+
+There is no magic effectiveness metric, but there are low-level metrics that can be used as indicators and should be applied in the context the team is working in. Quantitative metrics should be used with qualitative feedback from developers using the internal environments and tools.
+
+We can think of engineering as a series of feedback loops. For example, simple tasks that developers do and then validate to get feedback, which might be from a colleague, a system, or an end user. The key take from this article is that using a framework of feedback loops provides a way of measuring and prioritizing the improvements we need to do to optimize developer effectiveness.
