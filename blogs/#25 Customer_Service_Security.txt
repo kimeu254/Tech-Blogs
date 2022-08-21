@@ -1,0 +1,26 @@
+Daily blog #25: 8 Ways to Improve Your Customer Service Security
+
+Author: Roman Shvydun
+
+Source: https://readwrite.com/8-ways-to-improve-your-customer-service-security/
+
+Personal data security is a critical factor in driving data governance success. Neither your service personnel nor customers would like to become victims of manipulative and fraudulent online activities. In order to protect your business, support agents, and customers, you need to think through your individual ‘game plan’ as follows:
+
+*Work out a cybersecurity strategy - it would help if you develop a strategy to minimize safety hazards in your support team. Do not neglect the safety of your client care department.
+
+*Organize training in IT security - To start with, you should implement a security awareness program in your company. Regular and frequent training are must-haves for your cybercrime prevention strategy.
+
+*Take advantage of automated solutions for protection - data privacy management tools can help you avoid security headaches. For example, automating the safe sharing of customers’ sensitive data through redaction software.
+
+*Enable multi-factor authentication - A two-factor authentication system may be fragile as attacks get more sophisticated. Therefore, enabling multi-factor authentication (MFA) may be a go-to to boost your customer service security.
+
+*Use a separate controlled environment for your security system - a separately managed system gives the convenience of testing and analyzing client service safety protocols and the overall security level.
+
+*Choose a secure cloud service provider - As more and more organizations tend to implement cloud-hosted software solutions, they take advantage of the SaaS security best practices.
+
+*Take proper precautions and play the game of anticipation - Continuous, ongoing monitoring for potential leaks is highly beneficial for businesses that care about their customer data and reputation.
+
+*Create a security risk management department - A security risk management team assesses risks based on the likelihood of threats, identifies and employs risk mitigation measures, and monitors internal data usage, among other things.
+
+Security isn’t provided to a company by default. From the above factors, it is clear why the topic of cybersecurity is a business concern and why customer service security needs constant improvements.
+
