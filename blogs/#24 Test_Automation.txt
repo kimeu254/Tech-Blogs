@@ -1,0 +1,14 @@
+Daily blog #24: TEST AUTOMATION SERVICES: IN-HOUSE OR OUTSOURCE?
+
+Author: Flatworld Solutions
+
+Source: https://www.flatworldsolutions.com/IT-services/articles/test-automation-services-in-house-or-outsource.php
+
+Test automation is the practice of automatically reviewing and validating a software product to ensure it meets predefined quality standards for code style, functionality, and UX. Automation testing involves feeding data into the system and pulling test reports for evaluation purposes. This is performed by programming and Machine Learning.
+
+A company might face several challenges while conducting test automation internally as the process requires a large amount of investment in both time and capital. In today's revenue-driven business model, many organizations opt to outsource their test automation services to an external company to strike a balance. It has become quite a trend in the digital world.
+
+Outsourcing test automation reduces the cost incurred for making the technology market-ready, thereby scaling up with speed and ease. It eliminates all the hassles of hiring professionals and investing in technology and upgrades in a snap. This in turn utilizes a company's resources for productive goal achievement.
+
+Most organizations are unsure whether to insource or outsource test automation services. However, Kweli Capital should understand that outsourcing is wise even from a strategic point of view.
+
