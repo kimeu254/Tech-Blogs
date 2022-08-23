@@ -1,0 +1,24 @@
+Daily blog #26: REST APIs must be hypertext-driven
+
+Author: Roy T. Fielding
+
+Source: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
+
+A REST API is an application programming interface that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services. A constraint is what needs to be done to make the REST architectural style clear. In other words, if the engine of application state is not being driven by hypertext, then it cannot be RESTful and cannot be a REST API.
+
+The following rules should be observed when creating REST API:
+
+-A REST API should not be dependent on any single communication protocol, though its successful mapping to a given protocol may be dependent on the availability of metadata, choice of methods, etc.
+
+-A REST API should not contain any changes to the communication protocols aside from filling-out or fixing the details of underspecified bits of standard protocols, such as HTTP’s PATCH method or Link header field.
+
+-A REST API should spend most of its descriptive effort in defining the media type(s) used for representing resources and driving application state, or in defining extended relation names and/or hypertext-enabled mark-up for existing standard media types.
+
+-A REST API must not define fixed resource names or hierarchies (an obvious coupling of client and server). Servers must have the freedom to control their own namespace.
+
+-A REST API should never have “typed” resources that are significant to the client. Specification authors may use resource types for describing server implementation behind the interface, but those types must be irrelevant and invisible to the client.
+
+-A REST API should be entered with no prior knowledge beyond the initial URI (bookmark) and set of standardized media types that are appropriate for the intended audience (i.e., expected to be understood by any client that might use the API).
+
+There are other rules for creating REST APIs but the mentioned ones are related to the hypertext constraint that is often violated. Kweli Capital should adhere to the six rules mentioned when creating RESTful APIs.
+
