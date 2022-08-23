@@ -1,0 +1,22 @@
+Author: Andre Lucas
+
+Source: https://medium.com/@andrelucastic/tdd-the-practical-of-tests-driven-development-6d019f29648
+
+TDD is a method to develop software by tests. The developer writes the test case before writing the implementation. It is a very important approach for software development. Below is a step-by-step description of how it works:
+
+*ADD TEST-Before implementing anything, you should create a test scenario. This approach makes understanding the use cases easier, and the code design becomes easier to test.
+
+ *RUN ALL TESTS-Run all tests and see if any failed. This is necessary to validate if all tests are working correctly and if the new tests did stop the others. The new test should fail because the new functionality wasn’t implemented yet.
+
+ *WRITE CODE-The next step is to implement the functionality that the result should be the new test that was added to be executed with success. In this scenario, the code doesn’t need to be perfect and clean.
+
+ *RUN TEST-Run the test which was added that belongs to the implementation in the step above.
+
+ *REFACTOR-At this point, the programmer can be sure that the refactoring process doesn´t spoil any functionality that exists. You should therefore clean your code.
+
+ *RUN ALL TESTS AGAIN-Rerun all tests and see if any failed. If all tests are run with success it means that the new functionality did not stop the others. At this phase, the code has all requirements tested.
+
+After completing the process, you should repeat all steps in bits. You can start by getting some use cases you are aware of. First, try to write a test use case.
+
+The take from this article is TDD is a great method as it ensures the confidentiality of the software. With TDD you’ll have software with good coverage of tests. So, you can refactor without the fear of the refactors’ impacts.
+
