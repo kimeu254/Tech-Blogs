@@ -1,0 +1,14 @@
+Daily blog #29: Change the Face of Your Digital Workplace with VDI (Virtual Desktop Infrastructure) Services
+
+Author: Flatworld Solutions
+
+Source: https://www.flatworldsolutions.com/IT-services/articles/change-the-face-of-your-digital-workplace-with-vdi.php
+
+Virtual desktop infrastructure (VDI) is a technology that refers to the use of virtual machines to provide and manage virtual desktops. VDI hosts desktop environments on a centralized server and deploys them to end-users on request. It is designed to help you deliver the "in-office" experience to your employees while they work from home so their work doesn't suffer and they continue to deliver quality work.
+
+By opting for VDI as a service, you could ensure that you and your team can access your data, whether or not you're available, at any given point in time. Data security is enhanced as data resides in remote cloud servers that are heavily safeguarded via multi-level security.
+
+There are many cost parameters involved in successfully running an enterprise. For example, infrastructure, space, furniture, and systems for employees to work with. Now imagine, saving on all of these expenses with the ongoing trend of remote work and the expected rise of the trend in the future. You could do it all using VDI services.
+
+Kweli Capital can make use of a VDI solution for in-office settings that help enhance security by housing its operating system in the cloud. Your physical devices or the desktops that you work on are just a gateway to access your operating system in the cloud.
+
