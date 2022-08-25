@@ -1,0 +1,30 @@
+Daily blog #28: Challenging domains to work as a Backend Engineer
+
+Author: Ananthanarayanan Ramachandran
+
+Source: https://medium.com/interviewnoodle/challenging-domains-to-work-as-a-backend-engineer-aef820d1b3a
+
+Every developer loves a challenge. Especially as a backend engineer, you would love to work with building complex backend systems serving millions of people. Every domain comes with its own exciting characteristics, landscape, and complexity. Gaining experience in domains that have a significant impact on society is what makes backend engineering a great profession.
+
+*Travel and Mobility
+
+Travel and Mobility is one of the exciting domains to work in. Expertise in building APIs and databases for maps & geolocation is a highly sought-after skill in the travel and mobility domain. Elasticity is a very important aspect when it comes to travel and mobility backend systems.
+
+*E-commerce
+
+E-commerce products such as Search, Payment integrations, Delivery management, and Order & Inventory management have everything in it for backend engineers. Payment integrations with external systems have to be built for users to pay for products. For delivery of the products, integrations with delivery service providers have to be built.
+
+*Health & Wellness
+
+Health & Wellness software companies provide various offerings ranging from health appointments & consultations, physical activity tracking, and wellness sessions. You need to build backend systems that are simple enough to use, intuitive, consistent, and serve users’ traffic with low latency.
+
+*Entertainment
+
+The entertainment domain focuses on UX and HQ content. You have to build distributed systems that provide on-demand services to millions of your users. To service high-quality content in a blink of an eye and for fast streaming, you have to use techniques like CDN and Video compression.
+
+*Social networking and collaboration
+
+During Covid times, Social networking and collaboration have increased leaps and bounds. You have to choose the right database technologies like graph database, fan out mechanisms, and hybrid data persistence. Building distributed systems that handle large volumes of data should be your day-to-day work as your user base and their activities on your system will grow every day.
+
+Kweli Capital should look into other domains so as to diversify its market. However, understanding the user behavior of the domain you choose to work with is super important because at the end of the day what really matters is their impact on society.
+
