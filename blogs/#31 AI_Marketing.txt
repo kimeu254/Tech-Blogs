@@ -1,0 +1,15 @@
+Daily blog #23: What is edge computing and why does it matter?
+
+Author: Jon Gold
+
+Source: https://www.networkworld.com/article/3224893/what-is-edge-computing-and-how-it-s-changing-the-network.html
+
+Edge computing is defined as a part of a distributed computing topology in which information processing is located where things and people produce or consume that information. The physical architecture of the edge can be complicated, but the basic idea is that client devices connect to a nearby edge module for more responsive processing and smoother operations.
+
+Edge devices can include IoT sensors, an employee’s notebook computer, their latest smartphone, security cameras, or even the internet-connected microwave oven in the break room.
+
+Edge computing is a cost-saving alternative for companies that initially embraced the cloud for their applications because of its lower costs in bandwidth. The biggest benefit of edge computing is the ability to process and store data faster, enabling more efficient real-time applications that are critical to companies.
+
+Like any other system, edge computing has cons. From a security standpoint, data at the edge can be troublesome, especially when different devices are handling it. Therefore, it’s imperative that IT understands the potential security issues and makes sure those systems can be secured by encrypting data, employing access-control methods, and possibly VPN tunneling.
+
+The main take from this article to Kweli Capital is that edge computing brings computation and data storage closer to the devices where it’s being gathered, rather than relying on a central location.
